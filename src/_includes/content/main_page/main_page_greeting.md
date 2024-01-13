@@ -1,0 +1,1 @@
+Please join us to celebrate the wedding of Anne McDarris and Dylan Tastet this spring. Following a morning ceremony, we invite everyone to continue the festivities over brunch and music.
