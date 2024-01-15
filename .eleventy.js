@@ -5,6 +5,7 @@ const debug = require("debug")
 module.exports = function (eleventyConfig) {
     // 11ty config
     eleventyConfig.addPassthroughCopy({ './src/static/': '/' });
+    eleventyConfig.addPassthroughCopy({ './src/favicon.ico': '/' });
     eleventyConfig.addWatchTarget('./src/_includes/css/');
 
     // Shortcodes
