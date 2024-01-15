@@ -9,7 +9,7 @@ Our wedding will be an intimate one, and our venue can only accommodate so many 
 
 ### What should I wear?
 
-Our dress code is cocktail attire. Please wear clothes you are comfortable in! The wedding will be outdoors in Fearrington’s beautiful English-inspired gardens. In mid-May, the temperature tends to range from the low to high 70s throughout the day, although this of course may vary. 
+Our dress code is cocktail attire. Please wear clothes you are comfortable in! The wedding will be semi-outdoors in Fearrington’s beautiful English-inspired gardens. In mid-May, the temperature tends to range from the low to high 70s throughout the day, although this of course may vary. 
 
 ### How should I get there?
 
@@ -18,3 +18,6 @@ There is parking at the venue. We recommend driving or carpooling with someone. 
 ### Where can I RSVP?
 
 Formal invitations will be mailed to your home address soon. The invitation will include information on how to RSVP. Please fill out the form linked in the save the date (which you can also find [here](https://www.postable.com/tastetmcdarriswedding)) so that we can ensure that your invitation reaches you.
+
+### What if I have more questions?
+We will soon add more “Q&As” to this list, such as what time you should arrive and what to do if you have dietary restrictions. In the meantime, please reach out to us at [tastet.mcdarris.wedding@gmail.com](mailto:tastet.mcdarris.wedding@gmail.com) if you have any questions.
