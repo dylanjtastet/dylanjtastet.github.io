@@ -5,12 +5,14 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Mate&family=Tangerine&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Mate&family=Tangerine&family=IM+Fell+English&display=swap" rel="stylesheet">
     <title>{{title or site.title}}</title>
     <link rel="stylesheet" href="/bundle.css"/>
 </head>
 <body id="top">
-    {{content | safe}}
+    <div class="page-container d-flex flex-column align-items-center">
+        {{content | safe}}
+    </div>
     {% include "components/navbar.njk" %}
 </body>
 <footer>
